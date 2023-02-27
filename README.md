@@ -13,7 +13,10 @@
 ---
 ### :man_technologist: About me:
 - :student: Currently studying computer science at California State University 
-- :computer: Interested in Web Development Artificial Intelligence 
+- :computer: Interested in Back-End Web Development Artificial Intelligence
+---
+## Technologies and Languages...
+---
 
 <div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
