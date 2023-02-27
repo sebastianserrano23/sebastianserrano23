@@ -13,11 +13,11 @@
 ---
 ### :man_technologist: About me:
 - :student: Currently studying computer science at California State University 
-- :computer: Interested in Back-End Web Development and Artificial Intelligence
+- :computer: Interested in Full-Stack Web Development and Artificial Intelligence
 ---
 ## Technologies and Languages...
 ---
-
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianserrano23&show_icons=true"/>
 <div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
