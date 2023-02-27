@@ -11,7 +11,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- Currently studying computer science at CSUF
+---
+### :man_technologist:
 
 <div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
