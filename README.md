@@ -17,8 +17,8 @@
 ---
 ## Technologies and Languages...
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=sebastianserrano23&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serranosebastian23"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianserrano23&show_icons=true&theme=dark"/>
 <div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
