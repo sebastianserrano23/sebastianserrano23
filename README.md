@@ -17,6 +17,7 @@
 ---
 ## Technologies and Languages...
 ---
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sebastianserrano23&show_icons=true&theme=dark"/>
 <div id="header">
