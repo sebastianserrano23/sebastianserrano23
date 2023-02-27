@@ -3,8 +3,9 @@
 </div>
 
 ### Hey Guys, I'm Sebastian Serrano 👋
+- Currently studying computer science at CSUF
 
-<div id="badges">
+<div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
