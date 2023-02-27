@@ -4,7 +4,6 @@
 
 <h1 align="center">
   Hey Guys, I'm Sebastian Serrano 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
@@ -12,7 +11,9 @@
 </div>
 
 ---
-### :man_technologist:
+### :man_technologist: About me:
+- :student: Currently studying computer science at California State University 
+- :computer: Interested in Web Development Artificial Intelligence 
 
 <div id="header">
     <a href="linkedin.com/in/sebastian-serrano-a11a57198">
