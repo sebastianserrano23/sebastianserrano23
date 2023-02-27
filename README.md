@@ -2,12 +2,11 @@
     <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = "100">
 </div>
 
-<h1>
+<h1 align="center">
   Hey Guys, I'm Sebastian Serrano 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### Hey Guys, I'm Sebastian Serrano 👋
 - Currently studying computer science at CSUF
 
 <div id="header">
