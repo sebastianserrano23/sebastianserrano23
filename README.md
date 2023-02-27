@@ -13,7 +13,7 @@
 ---
 ### :man_technologist: About me:
 - :student: Currently studying computer science at California State University 
-- :computer: Interested in Back-End Web and Development Artificial Intelligence
+- :computer: Interested in Back-End Web Development and Artificial Intelligence
 ---
 ## Technologies and Languages...
 ---
