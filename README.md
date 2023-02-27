@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hey Guys, I'm Sebastian Serrano :space_invader:
+  :space_invader: Hey Guys, I'm Sebastian Serrano :space_invader:
 </h1>
 
 <div align="center">
