@@ -3,11 +3,6 @@
 </div>
 
 <h1 align="center">Hey Guys 👋 I'm Sebastian</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 ### 👨‍💻 About me:
 - :student: Junior Computer Science Major 💻 @ California State University 🏫📚 
