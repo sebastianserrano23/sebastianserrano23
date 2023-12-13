@@ -9,7 +9,7 @@
 </div>
 
 ---
-### :man_technologist: About me:
+### 👨‍🔬 About me:
 - :student: Currently studying computer science at California State University 
 - :computer: Interested in Full-Stack Web Development and Artificial Intelligence
 ---
