@@ -5,6 +5,7 @@
 <h1 align="center">Hey Guys 👋 I'm Sebastian</h1>
 ---
 ### 👨‍💻 About me:
+
 - :student: Junior Computer Science Major 💻 @ California State University 🏫📚 
 - :computer: Interested in Full-Stack Web Development and Artificial Intelligence :techno
 ---
