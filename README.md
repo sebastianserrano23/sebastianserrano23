@@ -2,8 +2,7 @@
     <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width = "100">
 </div>
 
-<h1 align="center">
-  :space_invader: Hey Guys, I'm Sebastian :space_invader:
+<h1 align="center">Hey Guys 👋: I'm Sebastian
 </h1>
 
 <div align="center">
