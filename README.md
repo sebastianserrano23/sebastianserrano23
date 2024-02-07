@@ -7,4 +7,3 @@
 👨‍💻 About me:
 
 - :student: Junior Computer Science Major 💻 @ California State University 🏫📚 
-- :computer: Interested in Full-Stack Web Development and Artificial Intelligence
