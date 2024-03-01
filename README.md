@@ -7,4 +7,4 @@
 👨‍💻 About me:
 
 - :student: Junior Computer Science Major 💻 @ California State University 🏫📚 
-- 🧑‍💻: Incoming Data Engineer Intern @ Meta in Menlo Park 💻:
+- 🧑‍💻 Incoming Data Engineer Intern @ Meta in Menlo Park 💻
