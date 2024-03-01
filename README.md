@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey Guys 👋 I'm Sebastian</h1>
 
-👨‍💻 About me:
+About me:
 
 - :student: Junior Computer Science Major 💻 @ California State University 🏫📚 
 - 🧑‍💻 Incoming Data Engineer Intern @ Meta in Menlo Park 💻
