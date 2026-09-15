@@ -5,6 +5,3 @@
 <h1 align="center">Hey Guys 👋 I'm Sebastian</h1>
 
 About me:
-
-- :student: BS in CS 💻 @ California State University 🏫📚 
-- Data Engineer @ Meta in Menlo Park 💻🌳
